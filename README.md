@@ -58,7 +58,7 @@ using LL to check the list
 
 on both server
 
-![Screenshot 2025-09-10 162706.png](attachment:39548f63-bbbf-4a03-b670-b985f399bd3b:Screenshot_2025-09-10_162706.png)
+![image alt](https://github.com/marahgrace1583-source/Haproxy_certbort_-deployment/blob/6a7404a85a99c72411d34db4383afca8ac6521cf/Screenshot%202025-09-10%20162706.png)
 
 ![Screenshot 2025-09-10 163642.png](attachment:54a36f06-79e7-495d-b549-6ca0a489f788:Screenshot_2025-09-10_163642.png)
 
