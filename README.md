@@ -24,7 +24,7 @@ In this setup, we configured HAProxy as the entry point for traffic, terminating
 - Ensure they are in the same VPC / network.
 - Assign a public IP / private IP
 
-![Screenshot 2025-09-10 143002.png](attachment:45e70a93-fb33-428c-a981-08ca26087193:772646eb-5090-4cf0-9f57-9c5f55e765df.png)
+![image alt](https://github.com/marahgrace1583-source/Haproxy_certbort_-deployment/blob/a58d049878b1f9504bf722cf5b481be241f2a9da/Screenshot%202025-09-10%20143002.png)
 
 **Steps 2**
 
