@@ -158,7 +158,7 @@ To check the full content of the file
 
 Ll   -la
 
-![Screenshot 2025-09-10 174559.png](attachment:08b4fa50-291d-47b9-ab91-142ca8e9040b:Screenshot_2025-09-10_174559.png)
+![image alt](https://github.com/marahgrace1583-source/Haproxy_certbort_-deployment/blob/e36a41504ccf5ce3e0f276efececf902accd22b6/Screenshot%202025-09-10%20182743.png)
 
 **Step 5**
 
