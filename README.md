@@ -166,7 +166,7 @@ Turn off ip address
 
 Go to instance > action >network>manage Ip address >disable public ip address for both serve 1 and 2 
 
-![Screenshot 2025-09-10 182605.png](attachment:55692ac3-d410-4ae9-850d-5c1191aa70ef:Screenshot_2025-09-10_182605.png)
+![image alt](https://github.com/marahgrace1583-source/Haproxy_certbort_-deployment/blob/3749decdc6ff9a276a44bbe8c4c162598aaa523f/Screenshot%202025-09-10%20182605.png)
 
 **Step 6** 
 
