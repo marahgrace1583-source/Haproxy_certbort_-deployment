@@ -62,7 +62,7 @@ on both server
 
 ![image alt](https://github.com/marahgrace1583-source/Haproxy_certbort_-deployment/blob/fb6a289e40e6f3664a984c48699e4f1f75eef81b/Screenshot%202025-09-10%20163642.png)
 
-![Screenshot 2025-09-10 173011.png](attachment:a0ee7295-eb6e-45df-b508-4b412c7b2899:430f607a-6d2e-47bf-9df7-157b161ec120.png)
+![image alt](https://github.com/marahgrace1583-source/Haproxy_certbort_-deployment/blob/0efb29c09eb9223be2b9a903a13c3d324ec81d48/Screenshot%202025-09-10%20173011.png)
 
 **Steps 3**
 
