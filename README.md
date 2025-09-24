@@ -94,7 +94,7 @@ Uploading files of  the templates from local computer to server using home direc
           Cd webcontent/
 ```
 
-![Screenshot 2025-09-10 174047.png](attachment:09ee572c-5ccf-4494-8d1e-3a14631dc33a:ccb3a5d9-837c-4711-b1e1-bfeaf8bc15d0.png)
+![image alt](https://github.com/marahgrace1583-source/Haproxy_certbort_-deployment/blob/5b45aa4780e92e8e326db72c4c29a47908239a88/Screenshot%202025-09-10%20182743.png)
 
 **Steps 4** 
 
